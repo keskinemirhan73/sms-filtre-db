@@ -14,7 +14,15 @@
     "kredi onayı",
     "hesabınız bloke",
     "yasa dışı",
-    "çekiliş"
+    "çekiliş",
+    "kargonuz teslim edilemedi",
+    "kargo iade",
+    "icra takibi",
+    "dosyanız hukuk bürosuna",
+    "ödül kazandınız",
+    "hesabınız kısıtlandı",
+    "şifrenizi sıfırlayın",
+    "hediye çeki"
   ],
   "scamUrls": [
     "bit.ly",
