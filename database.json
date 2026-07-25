@@ -1,7 +1,10 @@
 {
   "blacklistedNumbers": [
     "+905550000001",
-    "+905329999999"
+    "+905329999999",
+    "B001",
+    "B002",
+    "B003"
   ],
   "spamKeywords": [
     "bet",
@@ -11,6 +14,13 @@
     "bonus",
     "çevrimsiz",
     "deneme bonusu",
+    "freespin",
+    "hoşgeldin bonusu",
+    "kayıp bonusu",
+    "discount",
+    "slot",
+    "rulet",
+    "canlı casino",
     "kredi onayı",
     "hesabınız bloke",
     "yasa dışı",
@@ -22,12 +32,58 @@
     "ödül kazandınız",
     "hesabınız kısıtlandı",
     "şifrenizi sıfırlayın",
-    "hediye çeki"
+    "hediye çeki",
+    "ceza dosyanız var",
+    "uzlaştırma bürosu",
+    "maaşınıza haciz gelecek",
+    "dosyanız sisteme düşmüştür",
+    "günde 5.000 tl kazanın",
+    "evden kolay para",
+    "beğeni yaparak gelir elde edin",
+    "taahhüdünüz bitti",
+    "kargonuz gümrükte takıldı",
+    "ptt kargo gönderiniz",
+    "adresiniz bulunamadı",
+    "kargonuz yola çıktı",
+    "gümrük vergisi ödemesi",
+    "kargonuz iade edilecek",
+    "borcunuzdan dolayı yasal işlem",
+    "savcılık tarafından",
+    "hakkınızda şikayet var",
+    "hakkınızda açılan dava",
+    "kredi kartı aidat",
+    "aidat iadesi",
+    "krediniz onaylandı",
+    "ödeme yapılamadı",
+    "kartınız kullanıma kapatıldı",
+    "para transferiniz bekliyor",
+    "amazon part time",
+    "youtube beğeni görevi",
+    "hemen kazanmaya başla",
+    "günlük 2000 tl",
+    "ücretsiz kazandınız",
+    "çekilişi kazandınız",
+    "cep telefonu kazandınız",
+    "faturanız ödenmedi",
+    "grandpashabet",
+    "tarafbet",
+    "sahabet",
+    "vippark",
+    "cratosslot",
+    "yatırım şartsız",
+    "kripto yatırım",
+    "garanti kazanç"
   ],
   "scamUrls": [
     "bit.ly",
     "cutt.ly",
     "kisa.link",
-    "t.me"
+    "t.me",
+    "wa.me",
+    "tinyurl.com"
+  ],
+  "regexPatterns": [
+    "http.*\\\\.(xyz|cc|top|club|site|pw|online|vip)",
+    "(?:+90|0)?5[0-9]{2}[\\s\\-]?\\d{3}[\\s\\-]?\\d{2}[\\s\\-]?\\d{2}"
   ]
 }
